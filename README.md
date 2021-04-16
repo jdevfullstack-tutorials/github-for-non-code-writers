@@ -80,7 +80,12 @@ all instructions):
 <https://github.com/join> 
 
 2. Create a new repository (think
-of it just like a regular folder):
+of it just like a regular folder)
+but since your focus is writing
+content, it will serve as one 
+post, I highly encourage for 
+every content you write is another
+separate repo:
 
 ![image](https://user-images.githubusercontent.com/47092464/115019206-72797e00-9eeb-11eb-9f7e-33345612afe4.png)
 
@@ -109,6 +114,11 @@ your repo on social networking sites
 when there is no license, it's copyright
 - don't include `.gitignore`, it's needed when
 you use Git, but you don't need this
+- the `README` file is very important, it's
+the default display of your repo, so it serves
+as your page
+- this is also true when you turn to as a 
+web page through GitHub Page 
 ![Screenshot (14)](https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png)
 
 
