@@ -134,6 +134,11 @@ and you just have your
 first commit! That will appear on your GitHub 
 profile.
 
+Now, for my details of how I'm doing my
+workflow, check this out:
+
+<https://github.com/xdvrx1/my-personal-content-dev-workflow>
+
 ## A Little Bit Of Housekeeping (not required)
 Now, you have the option to remove unnecessary 
 things although this one is not required.
@@ -153,5 +158,6 @@ you will not be doing this for each repo
 with the same setting.
 
 ## About GitHub Pages
-
+Right on GitHub, if you want to turn your repo as a web
+page, make sure first
 ## Markdown Rendered Can Be Pasted Correctly On Google Docs 
