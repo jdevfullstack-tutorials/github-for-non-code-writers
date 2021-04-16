@@ -119,3 +119,5 @@ And when you click the `Create repo`, you're
 done with your setup, you will be seeing
 your repo and you can start writing
 when you click the pencil button.
+![Screenshot (18)](https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png)
+
