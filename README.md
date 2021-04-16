@@ -71,6 +71,10 @@ need that if your focus is writing in
 plaintext format. The GitHub Web UI 
 is enought for your workflow. 
 
+For the complete details about Markdown:
+
+<https://guides.github.com/features/mastering-markdown/>
+
 So, having said all the encouraging
 things, let us start!
 
