@@ -76,7 +76,6 @@ things, let us start!
 
 1. Create a GitHub account (follow
 all instructions):
-
 <https://github.com/join> 
 
 2. Create a new repository (think
@@ -86,14 +85,12 @@ content, it will serve as one
 post, I highly encourage for 
 every content you write is another
 separate repo:
-
 ![image](https://user-images.githubusercontent.com/47092464/115019206-72797e00-9eeb-11eb-9f7e-33345612afe4.png)
 
 You'll be seeing the above image if 
 you are at your dashboard, to visit
 your profile, go to upper right corner
 then you'll see your avatar, click that
-
 ![image](https://user-images.githubusercontent.com/47092464/115019320-9fc62c00-9eeb-11eb-8f04-eb49e6974a32.png)
 
 or directly go to `Repositories`,
