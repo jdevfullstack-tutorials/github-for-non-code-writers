@@ -126,10 +126,10 @@ your repo and you can start writing
 when you click the pencil button.
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png" /></kbd>
 Then type anything, click `Preview changes`
-![Screenshot (20)](https://user-images.githubusercontent.com/47092464/115030794-110cdb80-9efa-11eb-8295-33e9528ead7e.png)
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115030794-110cdb80-9efa-11eb-8295-33e9528ead7e.png" /></kbd>
 then at the bottom, once you see the preview
 of your changes, click `Commit changes` 
-![Screenshot (21)](https://user-images.githubusercontent.com/47092464/115030899-2da91380-9efa-11eb-9298-285ebdd7aac3.png)
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115030899-2da91380-9efa-11eb-9298-285ebdd7aac3.png" /></kbd>
 and you just have your
 first commit! That will appear on your GitHub 
 profile.
@@ -145,8 +145,7 @@ things although this one is not required.
 Once you have your repo, you can remove things
 and add labels so that it can be discovered
 by others when they are looking for topics
-![Screenshot (22)](https://user-images.githubusercontent.com/47092464/115031509-d22b5580-9efa-11eb-8076-6a82d9e1a2b2.png)
-
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115031509-d22b5580-9efa-11eb-8076-6a82d9e1a2b2.png" /></kbd>
 ![Screenshot (23)](https://user-images.githubusercontent.com/47092464/115031601-f25b1480-9efa-11eb-9a4c-f37a17f04dc0.png)
 uncheck `Releases`, `Packages` & `Environment`
 
