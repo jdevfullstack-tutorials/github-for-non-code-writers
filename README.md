@@ -159,5 +159,13 @@ with the same setting.
 
 ## About GitHub Pages
 Right on GitHub, if you want to turn your repo as a web
-page, make sure first
+page, make sure first that is Public, if you read
+the link I gave you for my personal content
+development workflow, I mentioned that.
+
+Now, once the repo is already public,
+go to `Setttings` again, and you should
+look for `Pages` tab, left pane.
+
+
 ## Markdown Rendered Can Be Pasted Correctly On Google Docs 
