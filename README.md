@@ -48,5 +48,21 @@ as a web page through GitHub,
 plus you have the Markdown that renders
 your plaintext document 
 as an elegant one but preserving the 
-plaintext document. And it's really fast
+plaintext document. Plus you can easily
+get a rendered HTML if that will be
+required. And it's really fast
 compared to WordPress and others.
+
+Don't be afraid learning and using
+Markdown. It's simply a collection of very 
+simply annotations for
+your plaintext format but again you
+still preserve the original form.
+When you say annotation, you
+are telling the publisher that the 
+format is exactly the way you
+describe it. For example, to organize
+a document, you'll be using a heading.
+You simple add an `#` before that heading
+and it will be formatted as heading.
+ 
