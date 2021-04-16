@@ -15,3 +15,13 @@ Meaning they are purely text. Now, there are
 several documents that are actually pure text
 too. Just to name a few, a poem, a legal document, 
 a novel: they are pure text in their natural form.
+
+Now, you'll say that other documents should not
+be plaintext but rather a rich-text document, but
+I'm sure that you know that as a writer, it's 
+highly encouraged to write in plain text
+so that it can be rendered to different 
+forms when published, just like others
+will be PDF, others will be rendered as 
+a web page, others an e-book.
+
