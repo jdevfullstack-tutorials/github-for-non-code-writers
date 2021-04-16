@@ -75,6 +75,7 @@ For the complete details about Markdown:
 
 <https://guides.github.com/features/mastering-markdown/>
 
+## Steps
 So, having said all the encouraging
 things, let us start!
 
@@ -125,3 +126,8 @@ your repo and you can start writing
 when you click the pencil button.
 ![Screenshot (18)](https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png)
 
+## A Little Bit Of Housekeeping (not required)
+Now, you have the option to remove unnecessary 
+things although this one is not required.
+Once you have your repo, you can remove things
+and add labels 
