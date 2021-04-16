@@ -116,5 +116,6 @@ web page through GitHub Page
 ![Screenshot (14)](https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png)
 
 And when you click the `Create repo`, you're
-done with your setup, you can start writing
+done with your setup, you will be seeing
+your repo and you can start writing
 when you click the pencil button.
