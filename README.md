@@ -90,7 +90,7 @@ content, it will serve as one
 post, I highly encourage for 
 every content you write is another
 separate repo:
-<kbd><img src="https://user-images.githubusercontent.com/47092464/115019206-72797e00-9eeb-11eb-9f7e-33345612afe4.png" /><kbd>
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115019206-72797e00-9eeb-11eb-9f7e-33345612afe4.png" /></kbd>
 You'll be seeing the above image if 
 you are at your dashboard, to visit
 your profile, go to upper right corner
