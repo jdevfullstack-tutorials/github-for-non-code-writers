@@ -82,6 +82,7 @@ things, let us start!
 ### Step 1
 Create a GitHub account (follow
 all instructions):
+
 <https://github.com/join> 
 
 ### Step 2
