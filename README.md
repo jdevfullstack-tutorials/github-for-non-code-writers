@@ -90,13 +90,12 @@ content, it will serve as one
 post, I highly encourage for 
 every content you write is another
 separate repo:
-![image](https://user-images.githubusercontent.com/47092464/115019206-72797e00-9eeb-11eb-9f7e-33345612afe4.png)
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115019206-72797e00-9eeb-11eb-9f7e-33345612afe4.png" /></kbd>
 You'll be seeing the above image if 
 you are at your dashboard, to visit
 your profile, go to upper right corner
 then you'll see your avatar, click that
-![image](https://user-images.githubusercontent.com/47092464/115019320-9fc62c00-9eeb-11eb-8f04-eb49e6974a32.png)
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115019320-9fc62c00-9eeb-11eb-8f04-eb49e6974a32.png" /></kbd>
 or directly go to `Repositories`,
 so that you can create your new repo.
 
@@ -109,7 +108,7 @@ your entire work, this will also be used by GitHub Pages
 when you turn your repo into a web page and
 will also appear as short description when you share
 your repo on social networking sites
-![Screenshot (13)](https://user-images.githubusercontent.com/47092464/115019416-c4ba9f00-9eeb-11eb-98ad-55295af0057a.png)
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115019416-c4ba9f00-9eeb-11eb-98ad-55295af0057a.png" /></kbd>
 - initialize a license or don't include, GitHub rule is that
 when there is no license, it's copyright
 - don't include `.gitignore`, it's needed when
@@ -119,13 +118,13 @@ the default display of your repo, so it serves
 as your page
 - this is also true when you turn to as a 
 web page through GitHub Page 
-![Screenshot (14)](https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png)
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png" /></kbd>
 
 4. And when you click the `Create repo`, you're
 done with your setup, you will be seeing
 your repo and you can start writing
 when you click the pencil button.
-![Screenshot (18)](https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png)
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png" /></kbd>
 Then type anything, click `Preview changes`
 ![Screenshot (20)](https://user-images.githubusercontent.com/47092464/115030794-110cdb80-9efa-11eb-8295-33e9528ead7e.png)
 then at the bottom, once you see the preview
