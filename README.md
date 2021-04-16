@@ -53,9 +53,9 @@ get a rendered HTML if that will be
 required. And it's really fast
 compared to WordPress and others.
 
-Don't be afraid learning and using
+Don't be afraid of learning and using
 Markdown. It's simply a collection of very 
-simply annotations for
+simple annotations for
 your plaintext format but again you
 still preserve the original form.
 When you say annotation, you
