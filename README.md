@@ -98,6 +98,11 @@ so that you can create your new repo.
 - think of an elegant name of your repo, this will also
 appear as part of the URL 
 - make it private first so that it is still your draft, 
+- fill in the description by powerful words describing
+your entire work, this will also be used by GitHub Pages
+when you turn your repo into a web page and
+will also appear as short description when you share
+your repo on social networking sites
 ![Screenshot (13)](https://user-images.githubusercontent.com/47092464/115019416-c4ba9f00-9eeb-11eb-98ad-55295af0057a.png)
 
 - initialize a license or don't include, GitHub rule is that
