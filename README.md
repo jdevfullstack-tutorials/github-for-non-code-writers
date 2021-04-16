@@ -120,11 +120,15 @@ as your page
 web page through GitHub Page 
 ![Screenshot (14)](https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png)
 
-And when you click the `Create repo`, you're
+4. And when you click the `Create repo`, you're
 done with your setup, you will be seeing
 your repo and you can start writing
 when you click the pencil button.
 ![Screenshot (18)](https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png)
+Then type anything, click `Preview changes` then
+click `Commit changes` and you just have your
+first commit! That will appear on your GitHub 
+profile.
 
 ## A Little Bit Of Housekeeping (not required)
 Now, you have the option to remove unnecessary 
