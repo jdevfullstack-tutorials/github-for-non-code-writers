@@ -138,4 +138,14 @@ profile.
 Now, you have the option to remove unnecessary 
 things although this one is not required.
 Once you have your repo, you can remove things
-and add labels 
+and add labels so that it can be discovered
+by others when they are looking for topics
+![Screenshot (22)](https://user-images.githubusercontent.com/47092464/115031509-d22b5580-9efa-11eb-8076-6a82d9e1a2b2.png)
+
+![Screenshot (23)](https://user-images.githubusercontent.com/47092464/115031601-f25b1480-9efa-11eb-9a4c-f37a17f04dc0.png)
+uncheck `Releases`, `Packages` & `Environment`
+
+then go to the Settings of your repo and you can uncheck
+`Wikis`, `Issues`, `Projects` and
+include `Discussions` tab.
+
