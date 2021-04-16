@@ -22,6 +22,31 @@ I'm sure that you know that as a writer, it's
 highly encouraged to write in plain text
 so that it can be rendered to different 
 forms when published, just like a PDF, 
-a web page or an e-book.
+a web page or an e-book. 
 
+Another reason why you want to avoid specific
+platforms is that, once you do, you
+are confined to that, for example, even
+though Microsoft Word and Google Docs 
+are accessible online, you are quite confined
+with these platforms. No matter what,
+once you open a certain document in another
+platform or word processor, there will be 
+unexpected changes. 
 
+But what if you insist, say, your company
+will only use Google Docs, but still, 
+as was mentioned, once your content
+will be published, it's really unpredictable.
+So, it's better to write in plaintext format.
+GitHub is an excellent tool for plaintext
+documents. You all have the luxury of
+revision control, a centralized space
+for collaboration, a service
+to simply turn your content 
+as a web page through GitHub,
+plus you have the Markdown that renders
+your plaintext document 
+as an elegant one but preserving the 
+plaintext document. And it's really fast
+compared to WordPress and others.
