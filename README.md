@@ -180,7 +180,8 @@ with the same setting.
 
 ## About GitHub Pages
 Right on GitHub, if you want to turn your repo as a web
-page, make sure first that is Public, if you read
+page for digital distribution and online presence,
+make sure first that is Public, if you read
 the link I gave you for my personal content
 development workflow, I mentioned that.
 
@@ -188,5 +189,22 @@ Now, once the repo is already public,
 go to `Settings` again, and you should
 look for `Pages` tab, left pane.
 
+## Formatted Content Through Markdown
+The formatted content through Markdown
+can be pasted on Google Docs and the
+format will still be correct, in case,
+you will be needing an equivalent 
+Google Docs version.
 
-## Markdown Rendered Can Be Pasted Correctly On Google Docs 
+## Creating PDF
+There are two ways to create a PDF
+version of your content without installing
+anything, first through GitHub Pages, once
+you have the web page, right click
+it then select `Print` but instead of printing
+it, save it as PDF.
+
+The other one is through Google Docs,
+once you pasted the rendered content
+click `File` on Google Docs, then 
+you can save it as PDF too.
