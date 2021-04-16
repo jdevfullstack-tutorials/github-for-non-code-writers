@@ -125,8 +125,12 @@ done with your setup, you will be seeing
 your repo and you can start writing
 when you click the pencil button.
 ![Screenshot (18)](https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png)
-Then type anything, click `Preview changes` then
-click `Commit changes` and you just have your
+Then type anything, click `Preview changes`
+![Screenshot (20)](https://user-images.githubusercontent.com/47092464/115030794-110cdb80-9efa-11eb-8295-33e9528ead7e.png)
+then at the bottom, once you see the preview
+of your changes, click `Commit changes` 
+![Screenshot (21)](https://user-images.githubusercontent.com/47092464/115030899-2da91380-9efa-11eb-9298-285ebdd7aac3.png)
+and you just have your
 first commit! That will appear on your GitHub 
 profile.
 
