@@ -150,7 +150,10 @@ of your changes, click `Commit changes`
 
 and you just have your
 first commit! That will appear on your GitHub 
-profile.
+profile. Remember, you are editing the file
+in pure text form but you are using Markdown
+tags and the README filename extension
+is `.md`.
 
 Now, for my details of how I'm doing my
 workflow, check this out:
