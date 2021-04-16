@@ -21,7 +21,5 @@ be plaintext but rather a rich-text document, but
 I'm sure that you know that as a writer, it's 
 highly encouraged to write in plain text
 so that it can be rendered to different 
-forms when published, just like others
-will be PDF, others will be rendered as 
-a web page, others an e-book.
-
+forms when published, just like a PDF, 
+a web page or an e-book.
