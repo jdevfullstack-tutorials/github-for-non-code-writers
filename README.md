@@ -72,7 +72,7 @@ For the complete details about Markdown:
 <https://guides.github.com/features/mastering-markdown/>
 
 And other sites are mentioning that
-you need to use Git. No you don't
+you need to use Git. No, you don't
 need that, not even GitHub Desktop,
 if your focus is writing in
 plaintext format. The GitHub Web UI 
