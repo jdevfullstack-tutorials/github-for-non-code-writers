@@ -165,7 +165,7 @@ workflow, check this out:
 ## A Little Bit Of Housekeeping (not required)
 Now, you have the option to remove unnecessary 
 things although this one is not required.
-Once you have your repo, you can remove things
+You can remove things
 and add labels so that it can be discovered
 by others when they are looking for topics
 
