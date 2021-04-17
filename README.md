@@ -53,7 +53,7 @@ get a rendered HTML if that will be
 required. And it's really fast
 compared to WordPress and others.
 
-Don't be afraid of learning and using
+Don't be afraid to learn and use
 Markdown. It's simply a collection of very 
 simple annotations for
 your plaintext format but again you
