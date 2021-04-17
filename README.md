@@ -59,9 +59,10 @@ simple annotations for
 your plaintext format but again you
 still preserve the original form.
 When you say annotation, you
-are telling the publisher that the 
-format is exactly the way you
-describe it. For example, to organize
+are telling that there are certain 
+formats for your documents, for example
+a certain word will be bold when printed
+/ rendered. For example, to organize
 a document, you'll be using a heading.
 You simple add an `#` before that heading
 and it will be formatted as heading.
