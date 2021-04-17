@@ -21,7 +21,7 @@ be plaintext but rather a rich-text document, but
 I'm sure that you know that as a writer, it's 
 highly encouraged to write in plain text
 so that it can be rendered to different 
-forms when published, just like a PDF, 
+formats when published, just like a PDF, 
 a web page or an ebook. 
 
 Another reason why you want to avoid specific
@@ -58,14 +58,15 @@ Markdown. It's simply a collection of very
 simple annotations for
 your plaintext format but again you
 still preserve the original form.
-When you say annotation, you
+When we say annotations, you
 are telling that there are certain 
 formats for your documents, for example
 a certain word will be bold when printed
-/ rendered. For example, to organize
+/ rendered. Another example, to organize
 a document, you'll be using a heading.
 You simple add an `#` before that heading
 and it will be formatted as heading.
+
 And other sites are mentioning that
 you need to use Git, no you don't
 need that if your focus is writing in
