@@ -204,7 +204,7 @@ development workflow, I mentioned that.
 Now, once the repo is already public
 (again, for free accounts),
 go to `Settings` again, and you should
-look for `Pages` tab at the left pane.
+look for the `Pages` tab at the left pane.
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100185-abf2cd80-9f6d-11eb-85b4-1558a7335658.png" /></kbd>
 
