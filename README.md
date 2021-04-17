@@ -95,14 +95,14 @@ post, I highly encourage for
 every content you write is another
 separate repo:
 
-<kbd><img src="https://user-images.githubusercontent.com/47092464/115019206-72797e00-9eeb-11eb-9f7e-33345612afe4.png" border="5" /></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115100729-10fbf280-9f71-11eb-94dc-7e30dd761284.png" /></kbd>
 
 You'll be seeing the above image if 
 you are at your dashboard, to visit
 your profile, go to upper right corner
 then you'll see your avatar, click that
 
-<kbd><img src="https://user-images.githubusercontent.com/47092464/115019320-9fc62c00-9eeb-11eb-8f04-eb49e6974a32.png" /></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115100732-15c0a680-9f71-11eb-819d-87434abac467.png" /></kbd>
 
 or directly go to `Repositories`,
 so that you can create your new repo.
