@@ -44,7 +44,7 @@ documents. You all have the luxury of
 revision control, a centralized space
 for collaboration, a service
 to simply turn your content 
-as a web page through GitHub,
+as a web page through GitHub Pages,
 plus you have the Markdown that renders
 your plaintext document 
 as an elegant one but preserving the 
