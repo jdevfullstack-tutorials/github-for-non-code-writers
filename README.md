@@ -201,7 +201,13 @@ Now, once the repo is already public,
 go to `Settings` again, and you should
 look for `Pages` tab, left pane.
 
+![image](https://user-images.githubusercontent.com/47092464/115100185-abf2cd80-9f6d-11eb-85b4-1558a7335658.png)
 
+You must select `main` as the source,
+so that it is automatic, your README file
+will serve as the default page, without
+changing anything, then click `Save` first,
+then select a theme.
 
 Here is the complete tutorial for GitHub
 Pages:
