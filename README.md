@@ -201,6 +201,13 @@ Now, once the repo is already public,
 go to `Settings` again, and you should
 look for `Pages` tab, left pane.
 
+
+
+Here is the complete tutorial for GitHub
+Pages:
+
+<https://github.com/xdvrx1/github-pages-tutorial>
+
 ## Formatted Content Through Markdown
 The formatted content through Markdown
 can be pasted on Google Docs and the
