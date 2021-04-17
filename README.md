@@ -67,15 +67,15 @@ a document, you'll be using a heading.
 You simple add an `#` before that heading
 and it will be formatted as heading.
 
+For the complete details about Markdown:
+
+<https://guides.github.com/features/mastering-markdown/>
+
 And other sites are mentioning that
 you need to use Git, no you don't
 need that if your focus is writing in
 plaintext format. The GitHub Web UI 
 is enough for your workflow. 
-
-For the complete details about Markdown:
-
-<https://guides.github.com/features/mastering-markdown/>
 
 ## Steps
 So, having said all the encouraging
