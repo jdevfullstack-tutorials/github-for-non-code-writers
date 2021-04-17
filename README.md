@@ -175,7 +175,7 @@ uncheck `Releases`, `Packages` & `Environment`
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115031601-f25b1480-9efa-11eb-9a4c-f37a17f04dc0.png" /></kbd>
 
 then go to the Settings of your repo and you can uncheck
-`Wikis`, `Issues`, `Projects` and
+`Wikis`, `Projects` and
 include `Discussions` tab. 
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100066-c1b3c300-9f6c-11eb-8c96-1b74aaeb6b39.PNG" /></kbd>
