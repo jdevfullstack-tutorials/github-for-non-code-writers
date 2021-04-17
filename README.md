@@ -176,10 +176,19 @@ uncheck `Releases`, `Packages` & `Environment`
 
 then go to the Settings of your repo and you can uncheck
 `Wikis`, `Issues`, `Projects` and
-include `Discussions` tab. There you can also
+include `Discussions` tab. 
+
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115100066-c1b3c300-9f6c-11eb-8c96-1b74aaeb6b39.PNG" /></kbd>
+
+There you can also
 make your repo as a template so that
 you will not be doing this for each repo
 with the same setting.
+Also, make sure you include a social preview
+so that it's really presentable when you 
+share that to other social networking sites.
+
+<kbd><img src="https://user-images.githubusercontent.com/47092464/115100109-1bb48880-9f6d-11eb-8ed4-3657701e7d48.PNG" /></kbd>
 
 ## About GitHub Pages
 Right on GitHub, if you want to turn your repo as a web
