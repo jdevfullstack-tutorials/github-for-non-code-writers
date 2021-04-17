@@ -123,7 +123,8 @@ your repo on social networking sites
 - initialize a license or don't include, GitHub rule is that
 when there is no license, it's copyright
 - don't include `.gitignore`, it's needed when
-you use Git, but you don't need this
+you use Git, but you don't need this for simply
+creating content
 - the `README` file is very important, it's
 the default display of your repo, so it serves
 as your page
