@@ -201,7 +201,7 @@ the link I gave you for my personal content
 development workflow, I mentioned that.
 
 Now, once the repo is already public
-(again for free accounts),
+(again, for free accounts),
 go to `Settings` again, and you should
 look for `Pages` tab at the left pane.
 
