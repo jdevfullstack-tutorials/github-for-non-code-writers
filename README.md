@@ -1,5 +1,5 @@
 # GitHub For Non-Code Writers
-GitHub is not only for software development and if you 
+GitHub is not only for software developers and if you 
 are a writer, just like a blogger, even non-tech, 
 you can utilize GitHub. It really fits your need
 as a writer. 
