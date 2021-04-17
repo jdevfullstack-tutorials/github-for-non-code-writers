@@ -128,8 +128,7 @@ creating content
 - the `README` file is very important, it's
 the default display of your repo, so it serves
 as your page
-- this is also true when you turn to as a 
-web page through GitHub Page 
+- this is also true when you enabled GitHub Pages 
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png" /></kbd>
 
