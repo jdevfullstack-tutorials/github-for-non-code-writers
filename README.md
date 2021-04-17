@@ -193,7 +193,10 @@ share that to other social networking sites.
 ## About GitHub Pages
 Right on GitHub, if you want to turn your repo as a web
 page for digital distribution and online presence,
-make sure first that it is public, if you read
+make sure first that it is public
+(for free accounts it is not allowed
+to enable GitHub Pages of private repos),
+if you read
 the link I gave you for my personal content
 development workflow, I mentioned that.
 
