@@ -70,7 +70,7 @@ And other sites are mentioning that
 you need to use Git, no you don't
 need that if your focus is writing in
 plaintext format. The GitHub Web UI 
-is enought for your workflow. 
+is enough for your workflow. 
 
 For the complete details about Markdown:
 
@@ -193,7 +193,7 @@ share that to other social networking sites.
 ## About GitHub Pages
 Right on GitHub, if you want to turn your repo as a web
 page for digital distribution and online presence,
-make sure first that is Public, if you read
+make sure first that it is public, if you read
 the link I gave you for my personal content
 development workflow, I mentioned that.
 
@@ -217,7 +217,7 @@ Pages:
 ## Formatted Content Through Markdown
 The formatted content through Markdown
 can be pasted on Google Docs and the
-format will still be correct, in case,
+format will still be correct, in case
 you will be needing an equivalent 
 Google Docs version.
 
