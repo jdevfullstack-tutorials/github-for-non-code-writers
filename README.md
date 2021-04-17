@@ -186,7 +186,7 @@ you will not be doing this for each repo
 with the same setting.
 Also, make sure you include a social preview
 so that it's really presentable when you 
-share that to other social networking sites.
+share your repo to other social networking sites.
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100109-1bb48880-9f6d-11eb-8ed4-3657701e7d48.PNG" /></kbd>
 
