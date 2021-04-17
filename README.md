@@ -65,7 +65,7 @@ a certain word will be bold when printed
 / rendered. Another example, to organize
 a document, you'll be using a heading.
 You simple add an `#` before that heading
-and it will be formatted as heading.
+and it will be formatted as a heading.
 
 For the complete details about Markdown:
 
