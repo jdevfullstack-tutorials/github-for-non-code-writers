@@ -25,14 +25,15 @@ formats when published, just like a PDF,
 a web page or an ebook. 
 
 And then we have the full option to simply
-use, say, word processors online to ease writing.
+use, say, word processors online 
+to ease writing.
 But you want to avoid specific
 platforms, because once
 you have utilized it, you
 are confined to that. No matter what,
 once you open a certain document in another
 platform or word processor, there will be 
-unexpected changes. But plaintext document
+unexpected changes. But a plaintext document
 can be opened in any other machine
 that you want to use.
 
