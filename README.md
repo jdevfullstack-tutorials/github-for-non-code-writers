@@ -53,6 +53,11 @@ get a rendered HTML if that will be
 required. And it's really fast
 compared to WordPress and others.
 
+Now, GitHub is using Markdown 
+for plaintext documents, that's
+the reason why the default README
+file name extension is `.md` indicating
+it is a Markdown file.
 Don't be afraid to learn and use
 Markdown. It's simply a collection of very 
 simple annotations for
@@ -67,7 +72,8 @@ a document, you'll be using a heading.
 You simple add an `#` before that heading
 and it will be formatted as a heading.
 
-For the complete details about Markdown:
+For the complete details about Markdown,
+(don't worry you can learn this instantly):
 
 <https://guides.github.com/features/mastering-markdown/>
 
@@ -155,8 +161,7 @@ and you just have your
 first commit! That will appear on your GitHub 
 profile. Remember, you are editing the file
 in pure text form but you are using Markdown
-tags and the README filename extension
-is `.md`.
+tags.
 
 Now, for my details of how I'm doing my
 workflow, check this out:
