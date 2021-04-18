@@ -265,4 +265,4 @@ it, save it as PDF.
 The other one is through Google Docs,
 once you pasted the rendered content
 click `File` on Google Docs, then 
-you can save it as PDF too.
+select `Download` as PDF.
