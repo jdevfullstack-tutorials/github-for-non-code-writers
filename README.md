@@ -45,7 +45,7 @@ as was mentioned, once your content
 will be published, it's really unpredictable.
 So, it's better to write in plaintext format.
 GitHub is an excellent tool for plaintext
-documents. You all have the luxury of
+documents. You have all the luxury of
 revision control, a centralized space
 for collaboration, a service
 to simply turn your content 
