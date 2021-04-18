@@ -24,15 +24,16 @@ so that it can be rendered to different
 formats when published, just like a PDF, 
 a web page or an ebook. 
 
-Another reason why you want to avoid specific
-platforms is that, once you do, you
-are confined to that, for example, even
-though Microsoft Word and Google Docs 
-are accessible online, you are quite confined
-with these platforms. No matter what,
+And then we have the full option to simply
+use, say, word processors online to ease writing.
+But you want to avoid specific
+platforms, because once you utilized it, you
+are confined to that. No matter what,
 once you open a certain document in another
 platform or word processor, there will be 
-unexpected changes. 
+unexpected changes. But plaintext document
+can be opened in any other machine
+that you want to use.
 
 But what if you insist, say, your company
 will only use Google Docs, but still, 
@@ -65,7 +66,7 @@ your plaintext format but again you
 still preserve the original form.
 When we say annotations, you
 are telling that there are certain 
-formats for your documents, for example
+formats for your documents, for example,
 a certain word will be bold when printed
 / rendered. Another example, to organize
 a document, you'll be using a heading.
@@ -89,8 +90,9 @@ So, having said all the encouraging
 things, let us start!
 
 ### Step 1
-Create a GitHub account (follow
-all instructions):
+Create a GitHub account 
+(you just need an email then
+follow all instructions):
 
 <https://github.com/join> 
 
