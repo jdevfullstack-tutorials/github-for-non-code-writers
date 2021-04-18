@@ -10,7 +10,7 @@ developers but it's not!
 
 Think of this situation: a source code is purely
 text, unless it's graphical coding, but most
-of all software development is text-based.
+of software development is text-based.
 Meaning they are purely text. Now, there are 
 several documents that are actually pure text
 too. Just to name a few, a poem, a legal document, 
