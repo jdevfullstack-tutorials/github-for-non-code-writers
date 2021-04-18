@@ -17,7 +17,7 @@ too. Just to name a few, a poem, a legal document,
 a novel: they are pure text in their natural form.
 
 Now, you'll say that other documents should not
-be plaintext but rather a rich-text document, but
+be plain text but rather a rich-text document, but
 I'm sure that you know that as a writer, it's 
 highly encouraged to write in plain text
 so that it can be rendered to different 
