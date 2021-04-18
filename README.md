@@ -61,7 +61,7 @@ compared to WordPress and others.
 Now, GitHub is using Markdown 
 for plaintext documents, that's
 the reason why the default README
-file name extension is `.md` indicating
+file name extension is `.md`, indicating
 it is a Markdown file.
 Don't be afraid to learn and use
 Markdown. It's simply a collection of very 
