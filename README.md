@@ -36,13 +36,13 @@ are confined to that. No matter what,
 once you open a certain document in another
 platform or word processor, there will be 
 unexpected changes. But a plaintext document
-can be opened in any other machine
+can be opened on any other machine
 that you want to use.
 
 But what if you insist, say, your company
 will only use Google Docs, but still, 
 as was mentioned, once your content
-will be published, it's really unpredictable.
+is published, it's really unpredictable.
 So, it's better to write in plaintext format.
 GitHub is an excellent tool for plaintext
 documents. You have all the luxury of
@@ -120,6 +120,7 @@ you are at your dashboard.
 
 To visit
 your profile, go to upper right corner
+of your screen
 then you'll see your avatar, click that
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100732-15c0a680-9f71-11eb-819d-87434abac467.png" /></kbd>
@@ -131,7 +132,7 @@ so that you can create your new repo.
 Initialize your repo:
 - think of an elegant name of your repo, this will also
 appear as part of the URL 
-- make it private first so that it is still your draft, 
+- make it private first so that it is still your draft 
 - fill in the description by powerful words describing
 your entire work, this will also be used by GitHub Pages
 when you turn your repo into a web page and
@@ -263,6 +264,6 @@ it then select `Print` but instead of printing
 it, save it as PDF.
 
 The other one is through Google Docs,
-once you pasted the rendered content
+once you pasted the rendered content,
 click `File` on Google Docs, then 
 select `Download` as PDF.
