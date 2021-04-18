@@ -53,7 +53,7 @@ as a web page through GitHub Pages,
 plus you have the Markdown that renders
 your plaintext document 
 as an elegant one but preserving the 
-plaintext document. Plus you can easily
+plaintext document. Plus, you can easily
 get a rendered HTML if that will be
 required. And it's really fast
 compared to WordPress and others.
