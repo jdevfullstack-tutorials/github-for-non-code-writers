@@ -27,7 +27,8 @@ a web page or an ebook.
 And then we have the full option to simply
 use, say, word processors online to ease writing.
 But you want to avoid specific
-platforms, because once you utilized it, you
+platforms, because once
+you have utilized it, you
 are confined to that. No matter what,
 once you open a certain document in another
 platform or word processor, there will be 
