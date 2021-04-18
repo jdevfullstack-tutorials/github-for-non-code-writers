@@ -59,8 +59,12 @@ required. And it's really fast
 compared to WordPress and others.
 
 Now, GitHub is using Markdown 
-for plaintext documents, that's
-the reason why the default README
+for plaintext documents, so that
+it can be rendered in an elegant
+way (but again, you can still create
+a pure text document by indicating
+it with filename extension `.txt`), 
+that's the reason why the default README
 file name extension is `.md`, indicating
 it is a Markdown file.
 Don't be afraid to learn and use
