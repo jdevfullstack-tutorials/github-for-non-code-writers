@@ -9,8 +9,10 @@ they think that GitHub is only for software
 developers but it's not!
 
 Think of this situation: a source code is purely
-text, unless it's graphical coding, but most
-of software development is text-based.
+text, unless it's graphical coding. But most
+of real-world software development is text-based,
+graphical coding is just an option for beginners
+particularly in education.
 Meaning they are purely text. Now, there are 
 several documents that are actually pure text
 too. Just to name a few, a poem, a legal document, 
