@@ -143,8 +143,8 @@ you use Git, but you don't need this for simply
 creating content
 - the `README` file is very important, it's
 the default display of your repo, so it serves
-as your page
-- this is also true when you enabled GitHub Pages 
+as your page,
+this is also true when you enabled GitHub Pages 
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png" /></kbd>
 
@@ -156,7 +156,8 @@ when you click the pencil button.
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115025358-d607a980-9ef3-11eb-8fc1-c0205a9e8157.png" /></kbd>
 
-Then type anything, click `Preview changes`
+Then type anything you want 
+(just to test), click `Preview changes`
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115030794-110cdb80-9efa-11eb-8295-33e9528ead7e.png" /></kbd>
 
