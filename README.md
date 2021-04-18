@@ -13,7 +13,7 @@ text, unless it's graphical coding. But most
 of real-world software development is text-based,
 graphical coding is just an option for beginners
 particularly in the academe.
-Meaning they are purely text. Now, there are 
+Now, there are 
 several documents that are actually pure text
 too. Just to name a few, a poem, a legal document, 
 a novel: they are pure text in their natural form.
