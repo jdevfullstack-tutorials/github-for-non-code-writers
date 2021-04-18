@@ -219,7 +219,7 @@ share your repo to other social networking sites.
 Right on GitHub, if you want to turn your repo as a web
 page for digital distribution and online presence,
 make sure first that it is public
-(for free accounts it is not allowed
+(for free accounts, it is not allowed
 to enable GitHub Pages of private repos),
 if you read
 the link I gave you for my personal content
