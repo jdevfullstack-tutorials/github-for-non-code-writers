@@ -108,7 +108,9 @@ separate repo:
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100729-10fbf280-9f71-11eb-94dc-7e30dd761284.png" /></kbd>
 
 You'll be seeing the above image if 
-you are at your dashboard, to visit
+you are at your dashboard.
+
+To visit
 your profile, go to upper right corner
 then you'll see your avatar, click that
 
@@ -172,14 +174,14 @@ workflow, check this out:
 
 ## A Little Bit Of Housekeeping (not required)
 Now, you have the option to remove unnecessary 
-things although this one is not required.
-You can remove things
-and add labels so that it can be discovered
-by others when they are looking for topics
+things although this one is not required. Click
+the gear button as demonstrated below:
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115031509-d22b5580-9efa-11eb-8076-6a82d9e1a2b2.png" /></kbd>
 
 uncheck `Releases`, `Packages` & `Environments`
+and add labels so that it can be discovered
+by others when they are looking for topics
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115031601-f25b1480-9efa-11eb-9a4c-f37a17f04dc0.png" /></kbd>
 
