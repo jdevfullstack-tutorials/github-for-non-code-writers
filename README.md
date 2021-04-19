@@ -207,8 +207,7 @@ include `Discussions` tab.
 
 There you can also
 make your repo as a template so that
-you will not be doing this for each repo
-with the same setting.
+it serves as your template.
 Also, make sure you include a social preview
 so that it's really presentable when you 
 share your repo to other social networking sites.
