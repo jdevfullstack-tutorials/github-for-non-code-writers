@@ -165,7 +165,7 @@ this is also true when you enabled GitHub Pages
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115019425-c6846280-9eeb-11eb-9f61-76cfbffd1b7d.png" /></kbd>
 
 ### Step 4
-And when you click the `Create repo`, you're
+And when you click the `Create repository`, you're
 done with your setup, you will be seeing
 your repo and you can start writing
 when you click the pencil button.
