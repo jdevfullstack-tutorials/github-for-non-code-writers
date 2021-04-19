@@ -136,7 +136,7 @@ then you'll see your avatar, click that
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100732-15c0a680-9f71-11eb-819d-87434abac467.png" /></kbd>
 
-or directly go to `Repositories`,
+or directly go to `Your repositories`,
 so that you can create your new repo.
 
 ### Step 3
