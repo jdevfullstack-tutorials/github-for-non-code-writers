@@ -78,9 +78,10 @@ formats for your documents, for example,
 a certain word will be bold when printed
 / rendered. Another example, to organize
 a document, you'll be using headings.
-You simple add an `#` before the words
-or phrase or for heading level,
-you use it twice `##`.
+You simple add an `#` before the title
+so that it will be rendered as the title
+or Heading Level 1. Use two `##` for a
+second level headings.
 As you can see, you still preserve the
 plaintext format.
 
