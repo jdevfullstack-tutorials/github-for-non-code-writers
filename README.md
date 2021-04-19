@@ -65,7 +65,7 @@ way (but again, you can still create
 a pure text document by indicating
 it with filename extension `.txt`), 
 that's the reason why the default README
-file name extension is `.md`, indicating
+filename extension is `.md`, indicating
 it is a Markdown file.
 Don't be afraid to learn and use
 Markdown. It's simply a collection of very 
