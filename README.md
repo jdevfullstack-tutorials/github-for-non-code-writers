@@ -77,9 +77,12 @@ are telling that there are certain
 formats for your documents, for example,
 a certain word will be bold when printed
 / rendered. Another example, to organize
-a document, you'll be using a heading.
-You simple add an `#` before that heading
-and it will be formatted as a heading.
+a document, you'll be using headings.
+You simple add an `#` before the words
+or phrase or for heading level,
+you use it twice `##`.
+As you can see, you still preserve the
+plaintext format.
 
 For the complete details about Markdown,
 (don't worry you can learn this instantly):
