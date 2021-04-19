@@ -30,7 +30,7 @@ And then we have the full option to simply
 use, say, online word processors. 
 But you want to avoid specific
 platforms, because once
-you have utilized it, you
+you have utilized one, you
 are confined to that. No matter what,
 once you open a certain document using
 a different platform or 
@@ -83,7 +83,7 @@ Another example, to organize
 a document, you'll be using headings.
 You simple add an `#` before the title
 so that it will be rendered as the title
-or Heading Level 1. Use two `##` for a
+or Heading Level 1. Use two `##` for 
 second level headings. (In short,
 how your plaintext document
 will be rendered exactly the way
@@ -121,7 +121,8 @@ but since your focus is writing
 content, it will serve as one 
 post, I highly encourage for 
 every content you write is another
-separate repo:
+separate repo (but it is just
+a matter of personal preference):
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115100729-10fbf280-9f71-11eb-94dc-7e30dd761284.png" /></kbd>
 
