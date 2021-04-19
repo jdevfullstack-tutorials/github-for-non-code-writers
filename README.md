@@ -206,7 +206,8 @@ by others when they are looking for topics
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115031601-f25b1480-9efa-11eb-9a4c-f37a17f04dc0.png" /></kbd>
 
-then go to the `Settings` of your repo 
+then go to the `Settings` of your repo
+(once you made the repo public)
 
 <kbd><img src="https://user-images.githubusercontent.com/47092464/115133873-0eb39a00-a03e-11eb-9d56-b505c1b4f20e.png" /></kbd>
 
