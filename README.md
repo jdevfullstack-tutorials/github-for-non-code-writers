@@ -74,14 +74,20 @@ your plaintext format but again you
 still preserve the original form.
 When we say annotations, you
 are telling that there are certain 
-formats for your documents, for example,
-a certain word will be bold when printed
-/ rendered. Another example, to organize
+styles that should be applied
+to some words, phrases or even
+the exact format of your document, 
+for example,
+a certain word will be bold when printed. 
+Another example, to organize
 a document, you'll be using headings.
 You simple add an `#` before the title
 so that it will be rendered as the title
 or Heading Level 1. Use two `##` for a
-second level headings.
+second level headings. (In short,
+how your plaintext document
+will be rendered exactly the way
+you want it.)
 As you can see, you still preserve the
 plaintext format.
 
